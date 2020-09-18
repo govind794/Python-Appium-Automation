@@ -1,0 +1,7 @@
+{
+  "deviceName": "emulator-5554",
+  "app": "/app/com.flipkart.android.apk",
+  "platformName": "Android",
+  "appPackage": "com.google.android.apps.nexuslauncher",
+  "appWaitActivity": "com.google.android.apps.nexuslauncher.NexusLauncherActivity"
+}
